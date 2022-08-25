@@ -4,7 +4,7 @@ export default function Interests() {
     return (
         <div className="interests">
             <h1>Interests</h1>
-            <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic</p>
+            <p>I LOVE ISSAC ZHENG AND ZHENG MAMA AND ZHENG BABA AND ZHENG NAI NAI AND ZHENG WAI PO</p>
         </div>
     )
 }
