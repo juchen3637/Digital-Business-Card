@@ -20,7 +20,7 @@ body {
     padding: 20px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    margin-top: 80px;
+    margin-top: 110px;
 }
 
 ion-icon {
@@ -109,4 +109,8 @@ button {
 .info h2 {
     font-weight: normal;
     margin-top: -30px;
+}
+
+#website {
+    color: #FFFFFF;
 }

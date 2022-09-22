@@ -7,7 +7,8 @@ export default function Info() {
             <img src={facePicture} className="facePicture"/>
             <h1>Justin Chen</h1>
             <h2>Frontend Developer</h2>
-            <p>justinchen.website</p>
+            <a href="https://jjustinchenn.web.app/" target = "_blank" id="website">jjustinchenn.web.app</a>
+            <div></div>
             <button type="button" className="button-email">
                 <span className="button-email-icon">
                     <ion-icon name="mail-outline"></ion-icon>
